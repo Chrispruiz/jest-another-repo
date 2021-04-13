@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrispruiz/jest-another-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chrispruiz/jest-another-repo/issues"
+  },
+  "homepage": "https://github.com/Chrispruiz/jest-another-repo#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
